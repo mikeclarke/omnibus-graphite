@@ -1,0 +1,9 @@
+#!/bin/bash
+#
+# Perform necessary graphite removal steps
+# after package is uninstalled.
+#
+
+echo "graphite has been uninstalled!"
+
+exit 0
